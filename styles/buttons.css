@@ -1,0 +1,48 @@
+.content-wrapper > .left-content-wrapper > .third-row > .btn-green {
+    background-color: #40C767 ;
+    font-size: 0.8em;
+    font-weight: 550;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 2px;
+    border: none;
+}
+.content-wrapper > .left-content-wrapper > .third-row > .btn-black {
+    background-color: black ;
+    color: white;
+    font-size: 0.8em;
+    font-weight: 550;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 2px;
+    border: none;
+}
+
+.header-wrapper > .right-column > .header-buttons .btn {
+    background-color: #35383F;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    width: 150px;
+    padding: 15px;
+    border: none;
+    border-radius: 4px;
+}
+
+.header-wrapper > .right-column > .header-buttons .btn i {
+    color: #40C767 ;
+    font-size: 1.3em;
+}
+
+.header-wrapper > .right-column > .header-buttons > .btn-search {
+    background-color: transparent;
+    color: #35383F;
+    border: transparent;
+}
+
+.header-wrapper > .right-column > .header-buttons > .btn-search i {
+    color: #35383F;
+    font-size: 2.5em;
+}
+
